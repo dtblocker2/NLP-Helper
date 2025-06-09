@@ -1,0 +1,20 @@
+11 July 2024:
+
+1. finally a working version
+2. added system to make an account
+3. protected it with very highly secure password(12345) :O)
+ok bye time to sleep
+#-----------------------------------------------------
+
+12 July 2024:
+1. add special access to creator i.e. me ( ͡~ ͜ʖ ͡°)
+
+#---------------------------------------------------------------
+
+20 July 2024
+1. added timer to prototype
+2. planned new things to be added
+3. fixed some looks
+4. added test file creator to save time
+
+I think that's it for version 0.2 now lets move to version 3 for better feature like threading and shit (^_____^)
