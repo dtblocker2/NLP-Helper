@@ -1,0 +1,4 @@
+1. Text to Speech: https://www.youtube.com/watch?v=AwU9uCqIwDE
+2. Tut: https://www.udemy.com/course/25-projects-in-25-days-of-ai-development-bootcamp/learn/lecture/46454587#overview
+3. Ollama Documentation
+4. UI designing: https://www.udemy.com/course/cssbootstrapjavascriptreact-overview-course-for-beginners/learn/lecture/35444368#overview
