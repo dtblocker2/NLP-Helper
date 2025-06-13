@@ -1,0 +1,28 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "NodeJS approach of the application",
+  "keywords": [
+    "AI",
+    "helper"
+  ],
+  "homepage": "https://github.com/dtblocker2/NLP-Helper#readme",
+  "bugs": {
+    "url": "https://github.com/dtblocker2/NLP-Helper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtblocker2/NLP-Helper.git"
+  },
+  "license": "ISC",
+  "author": "dtblocker",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
